@@ -3,8 +3,9 @@ body {
   }
   h1 {
     color: rgb(106, 106, 223);
+    font-size: larger;
   }
   p {
     color: rgba(88, 16, 16, 0.959);
-    size: 120px;
+    font-size: medium;
   }
