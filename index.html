@@ -9,17 +9,5 @@
 </head>
 <body>
 
-    <div class="wrapper">
-        <form>
-            <label for="username">Jméno:</label>
-            <input type="text" name="username" id="username" value="<?= $_SESSION["username"] ?? "" ?>">
-            <label for="message">Zpráva:</label>
-            <input type="text" name="message" id="message">
-            <button type="button" onclick="send()">Odeslat</button>
-        </form>
-    </div>
-
-    <div id="messages"></div>
-
 </body>
 </html>
