@@ -2,8 +2,9 @@ body {
     background-color: powderblue;
   }
   h1 {
-    color: blue;
+    color: rgb(106, 106, 223);
   }
   p {
-    color: red;
+    color: rgba(99, 22, 22, 0.959);
+    size: 20px;
   }
